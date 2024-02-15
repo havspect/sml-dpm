@@ -6,4 +6,8 @@ written-by: havspect
 
 # {{ $frontmatter.title }}
 
-asdf
+Authors: <Badge type="tip">Daniel Leuthe</Badge>, <Badge type="tip">Tim Meyer-Hollatz</Badge>, <Badge type="tip">Tobias Plank</Badge>, <Badge type="tip">Anja Senkmüller</Badge>
+
+Link: tbd.
+
+Date of publishing: tbd.

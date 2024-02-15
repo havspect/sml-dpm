@@ -26,4 +26,9 @@ The first DP “Assess Performance-Efficiency Tradeoff” centers on the equilib
 ## Real-world examples 
 
 
-## Academic sources 
+## Sources 
+
+- Naser, M. Z. (2023). Do We Need Exotic Models? Engineering Metrics to Enable Green Machine Learning from Tackling Accuracy-Energy Trade-offs. Journal of Cleaner Production, 382, 135334. https://doi.org/10.1016/j.jclepro.2022.135334
+- Brownlee, A. E. I., Adair, J., Haraldsson, S. O., & Jabbo, J. (2021). Exploring the Accuracy – Energy Trade-off in Machine Learning. 2021 IEEE/ACM International Workshop on Genetic Improvement (GI), 11–18. https://doi.org/10.1109/GI52543.2021.00011
+- Kumar, A. (2022). ESG & AI / Machine Learning Use Cases. Data Analytics. https://vitalflux.com/esg-ai-machine-learning-use-cases/
+- Schwartz, R., Dodge, J., Smith, N. A., & Etzioni, O. (2020). Green AI. Communications of the ACM, 63(12), 54–63. https://doi.org/10.1145/3381831

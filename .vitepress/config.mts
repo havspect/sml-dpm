@@ -9,7 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Design Patterns', link: '/dps/index' }
+      { text: 'Design Patterns', link: '/sml-dpm/introduction' }
     ],
 
     sidebar: [
@@ -17,14 +17,12 @@ export default defineConfig({
         text: 'Sustainable development of ML',
         items: [
           { text: 'Introduction', link: '/sml-dpm/introduction' },
-          { text: 'Motivation', link: '/sml-dpm/motivation' },
           { text: 'The paper', link: '/sml-dpm/paper' },
         ]
       },
       {
-        text: 'SML-DPM',
+        text: 'Sustainability dimensions',
         items: [
-          { text: 'Overview', link: '/dps/index'},
           {  
             text: '🌳 Ecological', 
             collapsed: true,
@@ -46,6 +44,39 @@ export default defineConfig({
               { text: 'Assess Performance-Efficiency Tradeoff', link: '/dps/100_AssessPerformanceEnergyTradeoff'}
             ]
           },
+        ]
+      },
+      {
+        text: 'ML development phases',
+        items: [
+          {
+            text: 'ML Demand Specification',
+            collapsed: true,
+            items: [
+              
+            ]
+          },
+          {
+            text: 'Data Collection and Preparation',
+            collapsed: true,
+            items: [
+              
+            ]
+          },
+          {
+            text: 'Modeling and Training',
+            collapsed: true,
+            items: [
+              
+            ]
+          },
+          {
+            text: 'Deployment and Monitoring',
+            collapsed: true,
+            items: [
+
+            ]
+          }
         ]
       }
     ],

@@ -2,6 +2,15 @@
 import { useData } from 'vitepress'
 
 const { page } = useData()
+
+let stakeholderMapping = {
+    "B": "Business Stakeholder",
+    "D": "Domain Expert",
+    "M": "ML Development",
+    "S": "Software Development",
+    "AT": "Auditing & Testing"
+};
+
 </script>
 
 <template>
@@ -16,7 +25,7 @@ const { page } = useData()
         </tr>
         <tr>
             <td>ML Development Stakeholders</td>
-            <td>{{ page.frontmatter["ml-development-stakeholders"] }}</td>
+            <td>{{ page.frontmatter["ml-development-stakeholders"].map(e => stakeholderMapping[e]).join(", ") }}</td>
         </tr>
     </table>
 </template>
