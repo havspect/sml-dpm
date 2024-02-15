@@ -1,4 +1,3 @@
 {
-    "build": "bun run build",
     "outputDirectory": ".vitepress/dist"
   }
