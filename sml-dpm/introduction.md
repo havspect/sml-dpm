@@ -19,6 +19,6 @@ The resulting matrix:
 
 ![SML-DPM](./SML-DPM.svg)
 
-If you want to support us, please buy us a coffee: 
+If you enjoy the service and would like to show your support, consider buying me a coffee - it's greatly appreciated and helps keep the energy up!
 
 <BuyMeACoffee />
