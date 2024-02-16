@@ -4,6 +4,10 @@ lang: en-US
 written-by: havspect
 ---
 
+<script setup>
+import BuyMeACoffee from '../components/BuyMeACoffee.vue'
+</script>
+
 # {{ $frontmatter.title }}
 
 > "What AI companies are doing is like releasing race cars without breaks."
@@ -14,3 +18,7 @@ As artificial intelligence (AI) and its subset machine learning (ML) advance, co
 The resulting matrix: 
 
 ![SML-DPM](./SML-DPM.svg)
+
+If you want to support us, please buy us a coffee: 
+
+<BuyMeACoffee />
