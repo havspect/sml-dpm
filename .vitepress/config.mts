@@ -7,7 +7,12 @@ export default defineConfig({
   lastUpdated: true,
   head: [
     ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
-    ['script', { async : '', src : "https://analytics.meyhol.dev/script.js", "data-website-id" : "2d293a75-1e3d-4aea-9c42-03ae7d75f75e"}]
+    ['script', { 
+      async : '',
+      src : "https://analytics.meyhol.dev/script.js", 
+      "data-website-id" : "2d293a75-1e3d-4aea-9c42-03ae7d75f75e",
+      "data-domains": "sustainable-ml.com"
+    }]
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -86,7 +91,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/havspect/sml-dpm' }
     ]
   }
 })
