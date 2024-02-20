@@ -11,24 +11,20 @@ hero:
     alt: SML-DPM
   actions:
     - theme: brand
-      text: Design Patterns
+      text: Learn more
       link: /sml-dpm/introduction
 
 features:
-  - icon: 
-      src: /repeat.svg
+  - icon: 🔁
     title: End-to-end consideration of the ML development process
     details: Agnostic ML development process that enables the use in every organization.
-  - icon:
-      src: /heart.svg
+  - icon: 💚
     title: Holistic view on sustainability
     details: Sustainability is more than just ecological or soical. It is the combination that matters.
-  - icon:
-      src: /download.svg
+  - icon: ⏩
     title: Directly applyable for ML development stakeholders
     details: The design pattterns should motivate stakeholders to develop sustainable ML algortithms.
-  - icon:
-      src: /users.svg
+  - icon: 🙍
     title: Clear assignment of the ML development stakeholders
     details: Know the responsibilities to act accordingly.
 ---
