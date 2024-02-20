@@ -5,7 +5,10 @@ export default defineConfig({
   title: "Towards Sustainability of AI",
   description: "The website for the scientific paper titled \"Towards Sustainability of AI – Identifying Design Patterns for Sustainable Machine Learning Development\". The paper introduces the Sustainable ML Design Pattern Matrix (SML-DPM), a novel framework designed to enhance the sustainability of ML development processes across environmental, social, and governance (ESG) dimensions.",
   lastUpdated: true,
-  head: [['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }]],
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
+    ['script', { async : '', src : "https://analytics.meyhol.dev/script.js", "data-website-id" : "2d293a75-1e3d-4aea-9c42-03ae7d75f75e"}]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
