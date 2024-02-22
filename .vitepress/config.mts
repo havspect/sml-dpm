@@ -11,7 +11,7 @@ export default defineConfig({
       async: '',
       src: "https://analytics.meyhol.dev/script.js",
       "data-website-id": "2d293a75-1e3d-4aea-9c42-03ae7d75f75e",
-      "data-domains": "sustainable-ml.com"
+      "data-domains": "sustainable-ml.com,www.sustainable-ml.com"
     }]
   ],
   themeConfig: {
