@@ -26,5 +26,7 @@ Contemporary ML models are often black-box models that are hard to interpret reg
 
 
 ## Sources 
-
-- 
+- Gao, L., & Guan, L. (2023). Interpretability of Machine Learning: Recent Advances and Future Prospects (arXiv:2305.00537). arXiv. http://arxiv.org/abs/2305.00537
+- Grennan, L., Kremer, A., Singla, A., & Zipparo, P. (2022). Explainable AI: Getting it right in business. https://www.mckinsey.com/capabilities/quantumblack/our-insights/why-businesses-need-explainable-ai-and-how-to-deliver-it
+- Biran, O., & Cotton, C. (2017). Explanation and justification in machine learning: A survey. IJCAI-17 Workshop on Explainable AI (XAI), 8(1), 8–13.
+- Miller, T. (2017). Explanation in Artificial Intelligence: Insights from the Social Sciences. https://doi.org/10.48550/ARXIV.1706.07269

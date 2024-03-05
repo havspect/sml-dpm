@@ -27,5 +27,6 @@ The DP, “Establish Standards in Data Collection and Preparation”, fosters cl
 
 
 ## Sources 
-
-- 
+- Dankwa-Mullan, I., & Weeraratne, D. (2022). Artificial Intelligence and Machine Learning Technologies in Cancer Care: Addressing Disparities, Bias, and Data Diversity. Cancer Discovery, 12(6), 1423–1427. https://doi.org/10.1158/2159-8290.CD-22-0373
+- Gill, N., Mathur, A., & Conde, M. V. (2022). A Brief Overview of AI Governance for Responsible Machine Learning Systems. Workshop on Trustworthy and Socially Responsible Machine Learning, NeurIPS 2022. https://doi.org/10.48550/arXiv.2211.13130
+- Cowls, J., Tsamados, A., Taddeo, M., & Floridi, L. (2023). The AI gambit: Leveraging artificial intelligence to combat climate change—opportunities, challenges, and recommendations. AI & SOCIETY, 38(1), 283–307. https://doi.org/10.1007/s00146-021-01294-x

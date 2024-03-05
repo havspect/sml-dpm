@@ -25,5 +25,5 @@ import DPOverview from '../../components/DPOverview.vue'
 
 
 ## Sources 
-
-- 
+- Burkhardt. (2019). Leading your organization to responsible AI | McKinsey. https://www.mckinsey.com/capabilities/quantumblack/our-insights/leading-your-organization-to-responsible-ai
+- Smith, G., & Rustagi, I. (2020). Mitigating Bias in Artificial Intelligence. Berkeley Haas. https://haas.berkeley.edu/equity/industry/playbooks/mitigating-bias-in-ai/

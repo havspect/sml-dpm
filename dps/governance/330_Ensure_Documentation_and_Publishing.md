@@ -28,5 +28,6 @@ The DP “Ensure Documentation and Publishing” helps organizations to scale th
 
 
 ## Sources 
+- Visengeriyeva, L., Kammer, A., Bär, I., Knish, A., & Plöd, M. (2023). MLOps and Model Governance. https://ml-ops.org/content/model-governance
+- Mitchell, M., Wu, S., Zaldivar, A., Barnes, P., Vasserman, L., Hutchinson, B., Spitzer, E., Raji, I. D., & Gebru, T. (2019). Model Cards for Model Reporting. Proceedings of the Conference on Fairness, Accountability, and Transparency, 220–229. https://doi.org/10.1145/3287560.3287596
 
-- 

@@ -26,5 +26,6 @@ The higher the risk for potentially harmful decisions, the more companies should
 
 
 ## Sources 
-
-- 
+- Schulam, P., & Saria, S. (2019). Can you trust this prediction? Auditing pointwise reliability after learning. The 22nd International Conference on Artificial Intelligence and Statistics, 1022–1031.
+- Koshiyama, A., Kazim, E., Treleaven, P., Rai, P., Szpruch, L., Pavey, G., Ahamat, G., Leutner, F., Goebel, R., Knight, A., Adams, J., Hitrova, C., Barnett, J., Nachev, P., Barber, D., Chamorro-Premuzic, T., Klemmer, K., Gregorovic, M., Khan, S., & Lomas, E. (2021). Towards Algorithm Auditing: A Survey on Managing Legal, Ethical and Technological Risks of AI, ML and Associated Algorithms. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3778998
+- Laato, S., Birkstedt, T., Mäantymäki, M., Minkkinen, M., & Mikkonen, T. (2022). AI governance in the system development life cycle: Insights on responsible machine learning engineering. Proceedings of the 1st International Conference on AI Engineering: Software Engineering for AI, 113–123. https://doi.org/10.1145/3522664.3528598

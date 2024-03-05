@@ -25,5 +25,7 @@ import DPOverview from '../../components/DPOverview.vue'
 
 
 ## Sources 
-
-- 
+- Burgdorf, K., Rostamzadeh, N., Srinivasan, R., & Lena, J. (2022). Looking at Creative ML Blindspots with a Sociological Lens (arXiv:2205.13683). https://doi.org/10.48550/arXiv.2205.13683
+- Barocas, S., & Boyd, D. (2017). Engaging the ethics of data science in practice. Communications of the ACM, 60(11), 23–25. https://doi.org/10.1145/3144172
+- Burkhardt. (2019). Leading your organization to responsible AI | McKinsey. https://www.mckinsey.com/capabilities/quantumblack/our-insights/leading-your-organization-to-responsible-ai
+- Johnson, M., Albizri, A., & Harfouche, A. (2021). Responsible Artificial Intelligence in Healthcare: Predicting and Preventing Insurance Claim Denials for Economic and Social Wellbeing. Information Systems Frontiers. https://doi.org/10.1007/s10796-021-10137-5
