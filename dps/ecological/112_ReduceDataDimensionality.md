@@ -26,3 +26,6 @@ import DPOverview from '../../components/DPOverview.vue'
 
 
 ## Sources
+- Chhikara, P., Jain, N., Tekchandani, R., & Kumar, N. (2022). Data dimensionality reduction techniques for Industry 4.0: Research results, challenges, and future research directions. Software: Practice and Experience, 52(3), 658–688. https://doi.org/10.1002/spe.2876
+- Reddy, G. T., Reddy, M. P. K., Lakshmanna, K., Kaluri, R., Rajput, D. S., Srivastava, G., & Baker, T. (2020). Analysis of Dimensionality Reduction Techniques on Big Data. IEEE Access, 8, 54776–54788. https://doi.org/10.1109/ACCESS.2020.2980942
+- Schneider, J., Basalla, M., & Seidel, S. (2019). Principles of Green Data Mining. Proceedings of the 52nd Hawaii International Conference on System Sciences. Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2019.250

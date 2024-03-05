@@ -26,3 +26,6 @@ import DPOverview from '../../components/DPOverview.vue'
 
 
 ## Sources
+- Microsoft. (2023). Machine learning inference during deployment—Cloud Adoption Framework. https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/best-practices/ml-deployment-inference
+- Natarajan, H. K., de Paula, D., Dremel, C., & Uebernickel, P. (2022). A Theoretical Review on AI Affordances for Sustainability. AMCIS 2022 Proceedings.
+- Schwartz, R., Dodge, J., Smith, N. A., & Etzioni, O. (2020). Green AI. Communications of the ACM, 63(12), 54–63. https://doi.org/10.1145/3381831

@@ -26,3 +26,6 @@ Second, the DP “Decide on Environmental Infrastructure” focuses on the infra
 
 
 ## Sources
+- Martínez-Fernández, S., Franch, X., & Durán, F. (2023). Towards green AI-based software systems: An architecture-centric approach (GAISSA) (arXiv:2307.09964). arXiv. http://arxiv.org/abs/2307.09964
+- Schneider, J., Basalla, M., & Seidel, S. (2019). Principles of Green Data Mining. Proceedings of the 52nd Hawaii International Conference on System Sciences. Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2019.250
+- Henderson, P., Hu, J., Romoff, J., Brunskill, E., Jurafsky, D., & Pineau, J. (2022). Towards the Systematic Reporting of the Energy and Carbon Footprints of Machine Learning. The Journal of Machine Learning Research, 1(2). https://doi.org/10.48550/arXiv.2002.05651

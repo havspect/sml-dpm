@@ -26,3 +26,5 @@ Finally, the environmental efficiency can be improved by the DP of “Stage Prep
 
 
 ## Sources
+- Vassiliadis, P. (2009). A Survey of Extract–Transform–Load Technology: International Journal of Data Warehousing and Mining, 5(3), 1–27. https://doi.org/10.4018/jdwm.2009070101
+- Schneider, J., Basalla, M., & Seidel, S. (2019). Principles of Green Data Mining. Proceedings of the 52nd Hawaii International Conference on System Sciences. Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2019.250

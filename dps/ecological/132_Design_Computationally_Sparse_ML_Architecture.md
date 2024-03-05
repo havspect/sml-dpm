@@ -25,3 +25,6 @@ import DPOverview from '../../components/DPOverview.vue'
 
 
 ## Sources
+- Donovan, R. (2020). How to put machine learning models into production. Stack Overflow Blog. https://stackoverflow.blog/2020/10/12/how-to-put-machine-learning-models-into-production/
+- Natarajan, H. K., de Paula, D., Dremel, C., & Uebernickel, P. (2022). A Theoretical Review on AI Affordances for Sustainability. AMCIS 2022 Proceedings.
+- Zhu, S., Ota, K., & Dong, M. (2022). Green AI for IIoT: Energy Efficient Intelligent Edge Computing for Industrial Internet of Things. IEEE Transactions on Green Communications and Networking, 6(1), 79–88. https://doi.org/10.1109/TGCN.2021.3100622

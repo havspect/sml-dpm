@@ -27,3 +27,6 @@ First, “Promote Data Sparseness in Data Collection” describes the tradeoff b
 
 
 ## Sources
+- Schneider, J., Basalla, M., & Seidel, S. (2019). Principles of Green Data Mining. Proceedings of the 52nd Hawaii International Conference on System Sciences. Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2019.250
+- Rohankar, R., Katti, C. P., & Kumar, S. (2015). Comparison of Energy Efficient Data Collection Techniques in Wireless Sensor Network. Procedia Computer Science, 57, 146–151. https://doi.org/10.1016/j.procs.2015.07.399
+- Xiang, L., Luo, J., & Rosenberg, C. (2013). Compressed Data Aggregation: Energy-Efficient and High-Fidelity Data Collection. IEEE/ACM Transactions on Networking, 21(6), 1722–1735. https://doi.org/10.1109/TNET.2012.2229716
