@@ -27,5 +27,6 @@ The DP “Ensure Continuous (Human) Monitoring for Fairness” entails the conti
 
 
 ## Sources 
-
-- 
+- Fahse, T., Huber, V., & Van Giffen, B. (2021). Managing Bias in Machine Learning Projects. Innovation Through Information Systems, 47, 94–109. https://doi.org/10.1007/978-3-030-86797-3_7
+- Burkhardt. (2019). Leading your organization to responsible AI | McKinsey. https://www.mckinsey.com/capabilities/quantumblack/our-insights/leading-your-organization-to-responsible-ai
+- Van Giffen, B., Herhausen, D., & Fahse, T. (2022). Overcoming the pitfalls and perils of algorithms: A classification of machine learning biases and mitigation methods. Journal of Business Research, 144, 93–106. https://doi.org/10.1016/j.jbusres.2022.01.076

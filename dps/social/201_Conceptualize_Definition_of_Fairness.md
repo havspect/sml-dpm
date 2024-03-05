@@ -27,5 +27,7 @@ As highlighted in the introduction to this subsection, a holistic definition of 
 
 
 ## Sources 
-
-- 
+-  Kleinberg, J., Mullainathan, S., & Raghavan, M. (2017). Inherent Trade-Offs in the Fair Determination of Risk Scores. 8th Innovations in Theoretical Computer Science Conference (ITCS 2017). https://doi.org/10.4230/LIPICS.ITCS.2017.43
+- Friedler, S. A., Scheidegger, C., Venkatasubramanian, S., Choudhary, S., Hamilton, E. P., & Roth, D. (2019). A comparative study of fairness-enhancing interventions in machine learning. Proceedings of the Conference on Fairness, Accountability, and Transparency, 329–338. https://doi.org/10.1145/3287560.3287589
+- Bellamy, R. K. E., Dey, K., Hind, M., Hoffman, S. C., Houde, S., Kannan, K., Lohia, P., Mehta, S., Mojsilovic, A., Nagar, S., Ramamurthy, K. N., Richards, J., Saha, D., Sattigeri, P., Singh, M., Varshney, K. R., & Zhang, Y. (2019). Think Your Artificial Intelligence Software Is Fair? Think Again. IEEE Software, 36(4), 76–80. https://doi.org/10.1109/MS.2019.2908514
+- Van Giffen, B., Herhausen, D., & Fahse, T. (2022). Overcoming the pitfalls and perils of algorithms: A classification of machine learning biases and mitigation methods. Journal of Business Research, 144, 93–106. https://doi.org/10.1016/j.jbusres.2022.01.076
