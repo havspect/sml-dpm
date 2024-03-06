@@ -23,7 +23,7 @@ import DPOverview from '../../components/DPOverview.vue'
 The DP “Report and Monitor Environmental Sustainability” advises publishing and monitoring power consumption, carbon emissions, training time, and hardware setup. Algorithmic and hardware advances have led to new generations of ML models with higher accuracy and simultaneously substantial energy consumption (Strubell et al., 2019). At the same time, ML researchers and organizations often omit the reporting of environmental-related metrics (Henderson et al., 2022). With advances in tracking and calculating energy demand and carbon emissions, publishing and monitoring those metrics is easier (Anthony et al., 2020; Budennyy et al., 2022; Strubell et al., 2019). 
 
 ## Real-world example
-Initiatives like [codecarbon](https://github.com/mlco2/codecarbon) and [carbontracker](https://github.com/lfwa/carbontracker) offer frameworks and tools to measure and report the sustainability of models. For instance, codecarbon calculates the $CO_{2-eq}$ of machine learning applications by multiplying the hardware energy consumption with the regional carbon intensity. While the approach inherits some limitations, it gives the first tendencies for the induced carbon emissions. 
+Initiatives like [codecarbon](https://github.com/mlco2/codecarbon) and [carbontracker](https://github.com/lfwa/carbontracker) offer frameworks and tools to measure and report the sustainability of models. For instance, codecarbon calculates the CO2 of machine learning applications by multiplying the hardware energy consumption with the regional carbon intensity. While the approach inherits some limitations, it gives the first tendencies for the induced carbon emissions. 
 
 The implementation of code carbon is straightforward: 
 
