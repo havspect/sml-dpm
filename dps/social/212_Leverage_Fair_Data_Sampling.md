@@ -22,9 +22,6 @@ import DPOverview from '../../components/DPOverview.vue'
 ## Description
 “Leverage Fair Data Sampling” describes the application of mitigation techniques in the data sampling steps (Fahse et al., 2021; Friedler et al., 2019). Several ML frameworks enable users to mitigate biases by pre-processing datasets (e.g., AI Fairness 360 (Bellamy et al., 2019)). Proposed techniques include but are not limited to oversampling, undersampling, stratified folds, and synthetic data generation (Ferrara, 2023).
 
-## Real-world examples 
-
-
 ## Sources 
 - Fahse, T., Huber, V., & Van Giffen, B. (2021). Managing Bias in Machine Learning Projects. Innovation Through Information Systems, 47, 94–109. https://doi.org/10.1007/978-3-030-86797-3_7
 - Friedler, S. A., Scheidegger, C., Venkatasubramanian, S., Choudhary, S., Hamilton, E. P., & Roth, D. (2019). A comparative study of fairness-enhancing interventions in machine learning. Proceedings of the Conference on Fairness, Accountability, and Transparency, 329–338. https://doi.org/10.1145/3287560.3287589

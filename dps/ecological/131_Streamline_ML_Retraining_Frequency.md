@@ -22,9 +22,6 @@ import DPOverview from '../../components/DPOverview.vue'
 ## Description
 “Streamline ML Retraining Frequency” describes optimizing the ML model retraining cycles to avoid unneeded and energy-expensive retraining (Microsoft, 2023b; Natarajan et al., 2022). To achieve this, practitioners must answer how often an ML model should be retrained (Schwartz et al., 2020). Therefore, the two predominating approaches display the performance-efficiency trade-off. On the one hand, retraining models in fixed time intervals or based on conditions such as observed data drift is less accurate, but also less energy intensive. On the other hand, constant ML model retraining is more energy-intensive but also more accurate (Microsoft, 2023b). 
 
-## Real-world examples 
-
-
 ## Sources
 - Microsoft. (2023). Machine learning inference during deployment—Cloud Adoption Framework. https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/best-practices/ml-deployment-inference
 - Natarajan, H. K., de Paula, D., Dremel, C., & Uebernickel, P. (2022). A Theoretical Review on AI Affordances for Sustainability. AMCIS 2022 Proceedings.

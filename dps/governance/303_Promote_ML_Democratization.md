@@ -22,9 +22,6 @@ import DPOverview from '../../components/DPOverview.vue'
 ## Description
 „Promote ML Democratization“ describes the development of an ML-related skilled workforce (Ng et al., 2021) to enhance the accessibility of ML (Sundberg & Holmström, 2023). Increased ML literacy leads to an increased number of employees being able to participate in developing ML models and acts as a lever for more diverse research approaches (van Giffen & Ludwig, 2023). One frequently used framework is the four Cs of AI in which low-level and easily understandable information about the ML-model´s concept, context, capability, and creativity is provided to the stakeholders (Talagala, 2021).
 
-## Real-world examples 
-
-
 ## Sources 
 - Ng, D. T. K., Leung, J. K. L., Chu, S. K. W., & Qiao, M. S. (2021). Conceptualizing AI literacy: An exploratory review. Computers and Education: Artificial Intelligence, 2, 100041. https://doi.org/10.1016/j.caeai.2021.100041
 - Sundberg, L., & Holmström, J. (2023). Democratizing artificial intelligence: How no-code AI can leverage machine learning operations. Business Horizons, S0007681323000502. https://doi.org/10.1016/j.bushor.2023.04.003

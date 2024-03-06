@@ -23,9 +23,6 @@ import DPOverview from '../../components/DPOverview.vue'
 ## Description
 Third, energy demand is determined to a great extent by the fit between the ML model and used hardware (Patterson et al., 2022), which is described in “Evaluate ML-Model-Hardware-Fit”. Li et al. (2016) elaborate that the combination of hardware setup and ML model influences the overall energy demand (D. Li et al., 2016). Furthermore, several authors analyzed specifically tailored hardware architectures for ML, increasing the energy efficiency significantly (Chen et al., 2017; Esser et al., 2015). Therefore, the fit between hardware and ML model shall guide the decision whether to train and deploy on-premise, adjust the infrastructure, or outsource to other providers with a better fit (Wu et al., 2022).
 
-## Real-world examples 
-
-
 ## Sources
 - Patterson, D., Gonzalez, J., Holzle, U., Le, Q., Liang, C., Munguia, L.-M., Rothchild, D., So, D. R., Texier, M., & Dean, J. (2022). The Carbon Footprint of Machine Learning Training Will Plateau, Then Shrink. Computer, 55(7), 18–28. https://doi.org/10.1109/MC.2022.3148714
 - Li, D., Chen, X., Becchi, M., & Zong, Z. (2016). Evaluating the Energy Efficiency of Deep Convolutional Neural Networks on CPUs and GPUs. 2016 IEEE International Conferences on Big Data and Cloud Computing, Social Computing and Networking, Sustainable Computing and Communications, 477–484. https://doi.org/10.1109/BDCloud-SocialCom-SustainCom.2016.76

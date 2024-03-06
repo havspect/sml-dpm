@@ -21,9 +21,6 @@ import DPOverview from '../../components/DPOverview.vue'
 ## Description
 "Adjust Model Parameters for Fairness" focuses on integrating fairness mitigation techniques (e.g., layers, loss functions) into ML models. This commences with verifying equalized odds in the ML model to guarantee the uniformity of false positives and negatives across all groups (Van Giffen et al., 2022). If a need for adaptation is discovered, changes to the ML model must be made, ranging from an adapted optimization to introducing an adversarial classifier next to the regular model (Pagano et al., 2023; Zhang et al., 2018).
 
-## Real-world examples 
-
-
 ## Sources 
 - van Giffen, B., & Ludwig, H. (2023). How siemens democratized artificial intelligence. MIS Quarterly Executive, 22(1), 3.
 - Pagano, T. P., Loureiro, R. B., Lisboa, F. V. N., Peixoto, R. M., Guimarães, G. A. S., Cruz, G. O. R., Araujo, M. M., Santos, L. L., Cruz, M. A. S., Oliveira, E. L. S., Winkler, I., & Nascimento, E. G. S. (2023). Bias and Unfairness in Machine Learning Models: A Systematic Review on Datasets, Tools, Fairness Metrics, and Identification and Mitigation Methods. Big Data and Cognitive Computing, 7(1), 15. https://doi.org/10.3390/bdcc7010015

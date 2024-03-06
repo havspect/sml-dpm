@@ -23,9 +23,6 @@ import DPOverview from '../../components/DPOverview.vue'
 ## Description
 “Understand and Establish Fairness in Dataset” describes the data analysis steps to identify social unfairness. Before ML developers can avoid potential fairness obstacles within a dataset, they first must understand where unfairness can occur (Holstein et al., 2019; Tang et al., 2023). Understanding a dataset and identifying possible areas of unfairness requires data plotting, exchanges with domain experts, and even the design of proxy variables to identify relationships and reasons for social biases (Ferrara, 2023; Van Giffen et al., 2022). Gu et al. (2021) recommend using interactive tools for data analysis since they provide a better understanding of data. After understanding unfairness sources, ML developers can actively initiate mitigation strategies (Van Giffen et al., 2022). 
 
-## Real-world examples 
-
-
 ## Sources 
 - Holstein, K., Wortman Vaughan, J., Daumé, H., Dudik, M., & Wallach, H. (2019). Improving Fairness in Machine Learning Systems: What Do Industry Practitioners Need? Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems, 1–16. https://doi.org/10.1145/3290605.3300830
 - Tang, Z., Zhang, J., & Zhang, K. (2023). What-is and How-to for Fairness in Machine Learning: A Survey, Reflection, and Perspective. ACM Computing Surveys, 55, 1–37. https://doi.org/10.1145/3597199

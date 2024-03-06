@@ -21,9 +21,6 @@ import DPOverview from '../../components/DPOverview.vue'
 ## Description
 Lastly, the DP “Optimize Hyperparameter Efficiently” focuses on the distinct levels of energy consumption different hyperparameter optimization (HPO) techniques show (Guido et al., 2022). For instance, Yarally et al. (2023) conclude to avoid random search for HPO. Furthermore, warm starting or zero shot ML, a mechanism that integrates knowledge from prior executions into the current one, improves the search process (Tornede et al., 2022; Wang et al., 2021; Yarally et al., 2023). Finally, pruning needs idiosyncratic consideration to improve the performance of HPO (Akiba et al., 2019).
 
-## Real-world examples 
-
-
 ## Sources
 - Guido, R., Groccia, M. C., & Conforti, D. (2022). A hyper-parameter tuning approach for cost-sensitive support vector machine classifiers. Soft Computing, 27(18), 12863–12881. https://doi.org/10.1007/s00500-022-06768-8
 - Yarally, T., Cruz, L., Feitosa, D., Sallou, J., & Van Deursen, A. (2023). Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI. 2023 IEEE/ACM 2nd International Conference on AI Engineering – Software Engineering for AI (CAIN), 25–36. https://doi.org/10.1109/CAIN58948.2023.00012
