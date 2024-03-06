@@ -9,6 +9,7 @@
     "vue": "^3.4.19"
   },
   "devDependencies": {
+    "markdown-it-mathjax3": "^4.3.2",
     "vitepress": "^1.0.0-rc.42"
   }
 }
